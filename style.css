@@ -1,0 +1,16 @@
+ body{
+    background-color: darkgray;
+ }
+
+ button{
+    color: blue;
+    text-align: center;
+    padding:inherit;
+ }
+
+table{
+    color:black;
+    text-align: center;
+    border: 5px ;
+    font: normal 2em Arial, Helvetica, sans-serif;
+}
